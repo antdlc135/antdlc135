@@ -30,7 +30,7 @@
 <img src="giphy.gif" width=100px></img>
 <img src="giphy.gif" width=100px></img>
 <img src="giphy.gif" width=100px></img>
-<img src="giphy.gif" width=100px></img>
+
 
 
 
