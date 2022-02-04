@@ -38,12 +38,8 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antdlc135&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antdlc135&theme=buefy&layout=compact" /></a>
-  <a href="https://github.com/antdlc135/ElectronicArts-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=ElectronicArts-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ 
 </a>
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -53,6 +49,15 @@
 
 <a href="mailto:antoniodeluca135@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-antoniodeluca135@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+
+ <a href="https://github.com/antdlc135/ElectronicArts-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=ElectronicArts-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<br/>
+
+
 
 
 
