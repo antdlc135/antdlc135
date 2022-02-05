@@ -41,7 +41,7 @@
 - 🎓 &nbsp; Studying Physics at University of Palermo, Italy.
 - 💼 &nbsp; Working as a Junior Developer Student at <a href="https://develhope.co/">Develhope</a>.
 - 🌱 &nbsp; Learning more about fullstack tools.
-- ✍️ &nbsp; Pursuing Music Production and Sport as hobbies/side hustles.
+- 🎶🐒 &nbsp; Pursuing Music Production and Sport as hobbies/side hustles.
 
 <img src="giphy.gif" width=100px></img>
 <img src="giphy.gif" width=100px></img>
