@@ -31,12 +31,12 @@
 ![](https://img.shields.io/badge/Tool-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
 
  <a href="https://github.com/antdlc135/ElectronicArts-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=ElectronicArts-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="175px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=ElectronicArts-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
  <a href="https://github.com/antdlc135/CodeChallenge-CB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=CodeChallenge-CB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="175px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=CodeChallenge-CB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
