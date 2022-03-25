@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Tool-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
 
  <a href="https://github.com/antdlc135/FakeE-Shop">
-  <img height="150px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=FakeE-Shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="150px" width="470px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antdlc135&repo=FakeE-Shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
