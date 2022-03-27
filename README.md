@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/antonio-de-luca-7a003362/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Antonio%20De%20Luca-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/antdlc135"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Antonio%20De%20Luca-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:antoniodeluca135@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-antoniodeluca135@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
