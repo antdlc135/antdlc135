@@ -43,8 +43,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Physics at University of Palermo, Italy.
-- 💼 &nbsp; Working as a Junior Developer Student at <a href="https://develhope.co/">Develhope</a>.
-- 🌱 &nbsp; Learning more about fullstack tools.
+- 💼 &nbsp; Working as Salesforce Developer at <a href="https://www.pwc.com/it/it.html">PwC Italy</a>.
+- 🌱 &nbsp; Learning more about everything.
 - 🎶🐒 &nbsp; Pursuing Music Production and Sport as hobbies/side hustles.
 
 <img src="giphy.gif" width=100px></img>
